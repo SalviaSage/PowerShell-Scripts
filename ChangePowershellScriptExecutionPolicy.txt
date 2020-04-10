@@ -1,0 +1,9 @@
+Just type this
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+and then type A
+
+and after that, you can execute whatever you want without warnings or anything for that powershell session, until you close powershell.
+
+There may be a way to do this permanently for powershell, but this is a security risk, thus I advise doing this for the current session.
